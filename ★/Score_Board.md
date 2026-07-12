@@ -45,15 +45,17 @@ To solve this challenge, we need to inspect the front-end source code. Since the
 
 > **What we found:** The routing array explicitly defines a path mapping for the scoreboard:
 > `{ path: 'score-board', component: ScoreBoardComponent }`
-
+> 
 ### Step 4: Access the Hidden Page
 
 1. Go back to your browser's address bar.
 2. Append the path string we discovered (`score-board`) to the application's base URL.
 * *Example:* `http://localhost:3000/#/score-board`
 
-
 3. Press **Enter**. The hidden Score Board page will load, and you will receive a notification that the challenge has been successfully solved.
+
+## Screenshot
+<img src="../screenshot/Score_Board.png" alt="scoreboard" width="500px">
 
 ---
 
