@@ -51,6 +51,11 @@ To solve this challenge, we will discover where public legal documents are store
 `http://localhost:3000/ftp/acquisitions.md`
 4. The file contents outlining confidential corporate takeovers will load onto your screen, and the challenge success banner will instantly slide down from the header!
 
+## Screenshot
+<img src="../screenshot/Confidential_Document.png" alt="scoreboard" width="500px">
+
+
+
 ---
 
 ### 🧠 Technical Explanation
