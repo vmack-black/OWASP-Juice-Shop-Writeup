@@ -47,6 +47,10 @@ Because modern frameworks often block basic `<script>` tags when dynamically ren
 
 * **Payload:** `<iframe src="javascript:alert(\`xss`)">`
 
+## Screenshot
+<img src="../screenshot/DOM_XSS.png" alt="scoreboard" width="500px">
+
+
 #### Step 4: Execute the Exploit (The Solution)
 
 1. Clear your previous search query from the search input field.
